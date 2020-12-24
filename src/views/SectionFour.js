@@ -6,7 +6,7 @@ export default function SectionFour() {
   return (
     <div
       className="sectionfour"
-      style={{ paddingBottom: "100px", paddingTop: "100px" }}
+      style={{ paddingBottom: "100px", paddingTop: "50px" }}
     >
       <div className="container">
         <div className="row">

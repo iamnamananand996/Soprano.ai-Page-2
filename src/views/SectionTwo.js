@@ -8,7 +8,7 @@ export default function SectionTwo() {
     <div className="sectiontwo">
       <div className="container">
         <div className="row">
-          <div className="col-12" style={{ paddingTop: "150px" }}></div>
+          <div className="col-12" style={{ paddingTop: "50px" }}></div>
 
           <div className="col-1"></div>
 
